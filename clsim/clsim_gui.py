@@ -137,7 +137,6 @@ def main():
     # app email contato
     st.sidebar.markdown("Qualquer dúvida entre em contato por e-mail: **estudosclimatologicos.icea@fab.mil.br**")
 
-
     # openWRF ?
     if "modelo WRF" == ls_pg_sel:
         # call WRF page
